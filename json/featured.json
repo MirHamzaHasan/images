@@ -1,6 +1,6 @@
 {
-    "name": "Fury Fighter",
-    "banner" : "",
-    "description": "⚡ Action Packed 3D Fighting Fight and conquer in intense 1v1 battles",
-    "link": "/games/fury-fighters"
+    "name": "FPS Shooter Missions",
+    "banner" : "https://cdn.jsdelivr.net/gh/MirHamzaHasan/images/website/dracoarts/commando-rescue-strike/banner.webp",
+    "description": "Join the commando squad and experience the thrill of intense FPS shooting action!",
+    "link": "/games/commando-rescue-shooter"
 }
