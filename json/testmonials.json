@@ -1,0 +1,37 @@
+ [
+    {
+      "quote":
+        "Working with this team transformed our game's visual identity. The art quality and attention to detail exceeded all expectations.",
+      "name": "Alex Morrison",
+      "designation": "Creative Director at PixelForge Studios",
+      "src": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=3560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "quote":
+        "The game development process was seamless from concept to launch. Their technical expertise and creative vision brought our ideas to life.",
+      "name": "Sarah Chen",
+      "designation": "CEO at GameVerse Interactive",
+      "src": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "quote":
+        "Outstanding animation work that elevated our gameplay experience. The fluid character movements and cinematic sequences are industry-leading.",
+      "name": "Marcus Rodriguez",
+      "designation": "Lead Designer at Quantum Games",
+      "src": "https://images.unsplash.com/photo-1623582854588-d60de57fa33f?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "quote":
+        "Their QA testing services caught critical issues before launch. Professional, thorough, and instrumental to our game's success.",
+      "name": "Emily Watson",
+      "designation": "Product Manager at Nexus Entertainment",
+      "src": "https://images.unsplash.com/photo-1636041293178-808a6762ab39?q=80&w=3464&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "quote":
+        "The UI/UX design dramatically improved player engagement. Intuitive navigation and stunning visual design created an immersive experience.",
+      "name": "David Kim",
+      "designation": "Studio Head at Arcadia Games",
+      "src": "https://images.unsplash.com/photo-1624561172888-ac93c696e10c?q=80&w=2592&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
